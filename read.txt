@@ -1,0 +1,16 @@
+ENTITIES
+Entities dalam HTML adalah cara untuk menampilkan karakter khusus yang tidak bisa langsung diketik pada keyboard.
+Contoh entities:
+ * &lt;: Tanda kurung siku kiri (<)
+ * &gt;: Tanda kurung siku kanan (>)
+ * &amp;: Ampersand (&)
+ * &quot;: Tanda kutip dua (")
+ * &nbsp;: Spasi non-breaking
+
+BREAKLINE HTML
+Beakline dalam HTML adalah elemen yang digunakan untuk membuat baris
+simbol dari breakline adalah dengan tag <br>.
+
+HORIZONTAL LINE
+Horizontal line dalam HTML adalah sebuah garis horizontal pada halaman web yang menggunakan tag<hr>
+Tag ini sering digunakan untuk memisahkan bagian-bagian konten yang berbeda.
